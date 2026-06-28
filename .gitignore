@@ -1,0 +1,6 @@
+__pycache__/
+*.pem
+*.der
+*.json
+*.md
+client_secret.txt
